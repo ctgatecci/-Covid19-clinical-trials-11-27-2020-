@@ -13,8 +13,7 @@
       - Generate the plot of number of studies with the Covid-19 risk factor in exclusion criteria
    
    4. COVID_CT_clustering_enrollment.py:
-      - Generate the clustering results in inclusion criteria
-      - Generate the clustering results in exclusion criteria 
+      - Generate the clusters of clinical studies based on their eligibility criteria and enrollment
 
 
 ## data
@@ -26,10 +25,12 @@
       - Studies using a drug as an intervention
 
    3. Risk_factor_list.xlsx:
-      - Know risk factors for Covid19 and the corresponding CUIs
+      - Known risk factors for Covid19 and the corresponding CUIs
       
    4. common_disease_list.xlsx:
       - The most common chronic diseases
    
    5. ie_parsed_clinical_trials_11272020.tsv:
       - Parsed results from Facebook Clinical-Trial-Parser
+      
+      Facebook Clinical-Trial-Parser :https://github.com/facebookresearch/Clinical-Trial-Parser
