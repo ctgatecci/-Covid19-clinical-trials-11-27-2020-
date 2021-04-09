@@ -31,5 +31,5 @@
    4. common_disease_list.xlsx:
       - The most common chronic diseases
    
-   5.ie_parsed_clinical_trials_11272020.tsv:
+   5. ie_parsed_clinical_trials_11272020.tsv:
       - Parsed results from Facebook Clinical-Trial-Parser
