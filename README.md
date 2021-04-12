@@ -34,6 +34,10 @@
       - The most common chronic diseases
    
    5. ie_parsed_clinical_trials_11272020.tsv:
-      - Parsed results from Facebook Clinical-Trial-Parser
+       - Parsed results from Facebook Clinical-Trial-Parser
       
       Facebook Clinical-Trial-Parser :https://github.com/facebookresearch/Clinical-Trial-Parser
+      
+   6. COVID-19_trials_11272020_updated.csv：
+      - Covid19 trials dataset updated by 11/27/2020
+     
