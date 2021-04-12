@@ -11,8 +11,11 @@
    3. Number-of-studies-with-the-risk-factor-in-exclusion-and-inclusion-criteria.ipynb:
       - Generate the plot of number of studies with the Covid-19 risk factor in inclusion criteria
       - Generate the plot of number of studies with the Covid-19 risk factor in exclusion criteria
+
+   4. Number-of-studies-with-the-risk-factor-in-trial-description.ipynb
+      - Generate the plot of number of studies with the Covid-19 risk factor in trial description
    
-   4. COVID_CT_clustering_enrollment.py:
+   5. COVID_CT_clustering_enrollment.py:
       - Generate the clusters of clinical studies based on their eligibility criteria and enrollment
 
 
